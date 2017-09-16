@@ -2,7 +2,7 @@
 
 /*
 Plugin Name:   Obah CSS and JS Plugin
-Plugin URI:    
+Plugin URI:    https://github.com/singdisain/obah
 Description:   Nambah obahan css lan js ke wordpress
 Version:       1.0
 Author:        SingDisain
